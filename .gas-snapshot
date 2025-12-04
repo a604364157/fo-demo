@@ -1,0 +1,8 @@
+ArithmeticTest:testAdd() (gas: 27713)
+ArithmeticTest:testDiv() (gas: 27773)
+ArithmeticTest:testMul() (gas: 27816)
+ArithmeticTest:testSub() (gas: 27756)
+CounterTest:testFuzz_SetNumber(uint256) (runs: 256, μ: 27191, ~: 28435)
+CounterTest:test_Increment() (gas: 28448)
+MyTokenTest:testInitialSupply() (gas: 7592)
+MyTokenTest:testMint() (gas: 40474)
